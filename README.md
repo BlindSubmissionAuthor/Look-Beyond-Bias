@@ -1,6 +1,6 @@
 Benchmark datasets for the paper "Look Beyond Bias with Entropic Adversarial Data Augmentation", published in ICPR 2022.
 
-You can download the dataset at the following link: https://drive.google.com/file/d/1fndaXty3r_cpgySOSmUFH1abSoahoZkg/view 
+You can download the datasets at the following link: https://drive.google.com/drive/folders/1jH9NVWgvYq6dLWRjKNml1SYsfL5vCNxf?usp=sharing
 
 ### File Format ###
 
